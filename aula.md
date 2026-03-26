@@ -56,55 +56,52 @@ Técnicos de ar-condicionado autônomos ou pequenas equipes que precisam organiz
 # Mapa do Site / Aplicação
 
 ## 1. Página Inicial
+
 - Apresentação do serviço
 - Botão de “Solicitar orçamento”
 - Acesso rápido ao acompanhamento
 - Destaque de benefícios (rapidez, praticidade, pagamento fácil)
 
 ## 2. Solicitação de Orçamento
+
 - Formulário:
-  - Tipo de serviço
-  - Endereço
-  - Descrição do problema
-  - Upload de fotos (opcional)
+- Tipo de serviço
+- Endereço
+- Descrição do problema
+- Upload de fotos (opcional)
 - Geração automática de valor estimado
 - Botão para avançar para agendamento
 
 ## 3. Agendamento
+
 - Exibição de horários disponíveis (baseado na agenda do técnico)
 - Seleção de data e hora
 - Confirmação do agendamento
 - Envio de confirmação automática (mensagem ou e-mail)
 
 ## 4. Área do Cliente (Acompanhamento)
+
 - Consulta por login simples ou código do atendimento
 - Status do serviço:
-  - Orçado
-  - Agendado
-  - Em execução
-  - Finalizado
+- Orçado
+- Agendado
+- Em execução
+- Finalizado
 - Detalhes do atendimento
 - Histórico de serviços
 
 ## 5. Gestão do Atendimento (Técnico)
+
 - Visualização de agenda
 - Atualização de status do serviço
 - Edição de valores (se necessário)
 - Registro de execução do serviço
 
 ## 6. Pagamento
+
 - Exibição do valor final
 - Opções de pagamento:
-  - Pix
-  - Cartão
+- Pix
+- Cartão
 - Geração de link de pagamento
 - Confirmação automática de pagamento
-
-## 7. Funcionalidades Transversais (RNF - FURPS)
-- Interface responsiva (mobile e desktop)
-- Tempo de carregamento otimizado (< 3s)
-- Segurança básica de dados
-- Controle de conflitos de agenda
-- Integração com serviços externos:
-  - Pagamento
-  - Notificações (e-mail/WhatsApp)
